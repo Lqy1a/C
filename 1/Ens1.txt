@@ -1,0 +1,9 @@
+char
+int
+float
+double
+short int -> short
+long int -> long
+int x; -> x;
+
+16 <= short <= int <= 32 <= long
